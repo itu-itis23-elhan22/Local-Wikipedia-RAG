@@ -1,5 +1,8 @@
 # Local Wikipedia RAG Assistant
 
+DEMO VİDEO= https://youtu.be/Vrh-Fl35Jx4
+
+
 A **fully-local** Retrieval-Augmented Generation (RAG) system that answers
 questions about famous people and famous places, using Wikipedia as the
 knowledge base. No external LLM API is used at any point — every component
