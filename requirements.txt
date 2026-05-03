@@ -1,0 +1,26 @@
+# ============================================================
+# Local Wikipedia RAG Assistant - Python Dependencies
+# ============================================================
+# Tüm kütüphaneler yereldir; hiçbir dış LLM API'si kullanılmaz.
+
+# --- Wikipedia ingest ---
+wikipedia==1.4.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# --- Vector store ---
+chromadb>=0.4.24
+
+# --- Local embeddings ---
+sentence-transformers>=2.5.1
+
+# --- Local LLM client ---
+ollama>=0.2.1
+
+# --- UI ---
+streamlit>=1.32.0
+
+# --- Utilities ---
+numpy>=1.26.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
