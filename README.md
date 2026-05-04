@@ -246,7 +246,7 @@ RAG_LLM_MODEL=mistral:7b streamlit run app.py
 A 5-minute walk-through (system overview, live ingestion + Q&A, technical
 decisions, trade-offs, future work) is available at:
 
-**▶︎ Demo video: `<add Loom or unlisted YouTube link here>`**
+**▶︎ Demo video: `<https://youtu.be/Vrh-Fl35Jx4>`**
 
 ---
 
